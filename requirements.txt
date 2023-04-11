@@ -6,3 +6,5 @@ numpy
 six
 mmh3
 sentencepiece
+pymysql
+sqlalchemy
